@@ -12,7 +12,7 @@ Hi, I'm Khizar  <br><br>Currently working as an IT Admin. <br><br>I'm actively l
 ![](https://nirzak-streak-stats.vercel.app/?user=khiixar&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khiixar&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
