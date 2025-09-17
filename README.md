@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Khizar  <br><br>Currently working as an IT Admin at a tech company. <br><br>I'm actively learning HTML, CSS, Python, and JavaScript. <br><br>I build websites for small businesses on the side — both to sharpen my skills and earn a bit along the way. <br>Always learning, always building.
+Hi, I'm Khizar  <br><br>Currently working as an IT Admin. <br><br>I'm actively learning HTML, CSS, Python, and JavaScript. <br><br>I build websites for small businesses on the side — both to sharpen my skills and earn a bit along the way. <br>Always learning, always building.
 
 
 ## 🌐 Socials:
